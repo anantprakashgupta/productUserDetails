@@ -4,11 +4,11 @@
       "id": 1,
       "userName": "prakash kumar gupta",
       "address1": "Bark Gaon",
-      "address2" : "Buxar Bihar",
+      "address2": "Buxar Bihar",
       "zip": "802123",
       "mobile": "7903167633",
-       "email": "prakash@gmail.com",
-      "status":"1"
+      "email": "prakash@gmail.com",
+      "status": "1"
     }
   ]
 }
